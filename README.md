@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [(https://github.com/AidanRJ1/Frontend-Mentor-QR)]
-- Live Site URL: [(https://aidanrj1.github.io/Frontend-Mentor-QR/)]
+- Solution URL: https://github.com/AidanRJ1/Frontend-Mentor-QR
+- Live Site URL: https://aidanrj1.github.io/Frontend-Mentor-QR/
 
 ## My process
 
@@ -37,4 +37,4 @@ I need to continue to develop responsive design processes, and work towards a mo
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AidanRJ1)
+- Frontend Mentor - [@AidanRJ1](https://www.frontendmentor.io/profile/AidanRJ1)
